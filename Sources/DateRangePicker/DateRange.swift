@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import AppKit
 
 extension NSCalendar.Unit {
 	public var drp_correspondingCalendarComponent: Calendar.Component? {
