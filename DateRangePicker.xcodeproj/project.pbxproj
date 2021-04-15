@@ -156,13 +156,11 @@
 				65F771591BEE79A30007D80E /* DateRange.swift */,
 				65F771221BEE16760007D80E /* DateRangePickerView.swift */,
 				65F7714D1BEE54CA0007D80E /* ExpandedDateRangePickerController.swift */,
-				6527FA3F1BF11E5C00E0FB5D /* ExpandedDateRangePickerController.xib */,
+				AE4142892627D0A0000BE504 /* Resources */,
 				656528A825D2E2EF000410EE /* DateRangeButton.swift */,
 				65F771491BEE4B140007D80E /* NSDate_DateRangePicker.swift */,
-				6527FA411BF11FCA00E0FB5D /* Localizable.strings */,
 				6527FA461BF1230900E0FB5D /* LocalizationHelper.swift */,
 				659FB87A201678B20046CAD1 /* DateErrorLogger.swift */,
-				65C918A425DBDF16009FAACB /* DateRangePicker_Colors.xcassets */,
 			);
 			name = DateRangePicker;
 			path = Sources/DateRangePicker;
@@ -200,6 +198,16 @@
 			);
 			name = DateRangePickerDemoUITests;
 			path = Tests/DateRangePickerDemoUITests;
+			sourceTree = "<group>";
+		};
+		AE4142892627D0A0000BE504 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6527FA3F1BF11E5C00E0FB5D /* ExpandedDateRangePickerController.xib */,
+				6527FA411BF11FCA00E0FB5D /* Localizable.strings */,
+				65C918A425DBDF16009FAACB /* DateRangePicker_Colors.xcassets */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
