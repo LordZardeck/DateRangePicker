@@ -90,6 +90,7 @@
 		65F7714D1BEE54CA0007D80E /* ExpandedDateRangePickerController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpandedDateRangePickerController.swift; sourceTree = "<group>"; };
 		65F771591BEE79A30007D80E /* DateRange.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateRange.swift; sourceTree = "<group>"; };
 		65F7715B1BEF62F70007D80E /* DateRangeTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateRangeTest.swift; sourceTree = "<group>"; };
+		AE41428E2627D1F8000BE504 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +130,7 @@
 		65F770DD1BEE162A0007D80E = {
 			isa = PBXGroup;
 			children = (
+				AE41428E2627D1F8000BE504 /* Package.swift */,
 				65F770E91BEE162A0007D80E /* DateRangePicker */,
 				65F770F51BEE162A0007D80E /* DateRangePickerTests */,
 				65F771061BEE16440007D80E /* DateRangePickerDemo */,
